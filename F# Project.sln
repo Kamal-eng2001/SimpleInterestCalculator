@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "F# Project", "F# Project\F# Project.fsproj", "{2020BBDA-9C27-4740-BA26-F5000234A2E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2020BBDA-9C27-4740-BA26-F5000234A2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2020BBDA-9C27-4740-BA26-F5000234A2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2020BBDA-9C27-4740-BA26-F5000234A2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2020BBDA-9C27-4740-BA26-F5000234A2E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68F6D1D2-BF6C-42DA-9DDF-129AADDCB1B8}
+	EndGlobalSection
+EndGlobal
